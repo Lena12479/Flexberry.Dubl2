@@ -1,0 +1,22 @@
+﻿{
+  "applicationCaption": "Dubl2",
+  "applicationTitle": "Dubl2",
+  "items": [
+    {
+      "link": null,
+      "menuName": "dubl2",
+      "caption": "Dubl2",
+      "title": "Dubl2",
+      "children": [
+        {
+          "link": "i-i-s-dubl2-заказ-l",
+          "menuName": null,
+          "caption": "Заказ",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
